@@ -1,7 +1,1 @@
-{
-    "user": {
-        "username": "gks",
-        "email": "gks@gks.gks",
-        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1N2RlYzE1OGM4MjhkMWIwMDM5MzA1MCIsInVzZXJuYW1lIjoiZ2tzIiwiZXhwIjoxNzA3OTM5MTQ5LCJpYXQiOjE3MDI3NTUxNDl9.3AbgrbLtPw8w4aGnsli8kUvJrxEwk6ZcYwPPM6-svLc"
-    }
-}
+{"user":{"username":"gks1","email":"gks1@gks.gks","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ODAzNDU0OGM4MjhkMWIwMDM5MzEyMCIsInVzZXJuYW1lIjoiZ2tzMSIsImV4cCI6MTcwODA4NTE1MCwiaWF0IjoxNzAyOTAxMTUwfQ.N9Xlsa7yOapR-KCo9jlrfsIJEE1rV3CQ7TH5TgvBHKo"}}
